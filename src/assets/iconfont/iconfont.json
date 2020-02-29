@@ -1,0 +1,100 @@
+{
+  "id": "1632974",
+  "name": "freelancer",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4587458",
+      "name": "跳转 前往 右箭头 向右 下一步 线性",
+      "font_class": "xiangyou",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5964575",
+      "name": "跳转 前往 右箭头 向右 下一步 线性",
+      "font_class": "right",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "7008978",
+      "name": "people_fill",
+      "font_class": "people_fill",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "7008979",
+      "name": "people",
+      "font_class": "people",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "7009040",
+      "name": "workbench_fill",
+      "font_class": "workbench_fill",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "7009041",
+      "name": "workbench",
+      "font_class": "workbench",
+      "unicode": "e73f",
+      "unicode_decimal": 59199
+    },
+    {
+      "icon_id": "7621405",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "7911888",
+      "name": "加",
+      "font_class": "jia1",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "8371517",
+      "name": "跳转 前往 右箭头 向右 下一步 线性",
+      "font_class": "tiaozhuanqianwangyoujiantouxiangyouxiayibuxianxing",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "10678425",
+      "name": "message white",
+      "font_class": "messagewhite",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "10678426",
+      "name": "message",
+      "font_class": "message",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "11084676",
+      "name": "跳转 前往 右箭头 向右 下一步 线性",
+      "font_class": "to-next",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "11340905",
+      "name": "放大",
+      "font_class": "fangda",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
